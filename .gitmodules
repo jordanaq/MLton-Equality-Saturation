@@ -1,0 +1,6 @@
+[submodule "code"]
+	path = code
+	url = git@github.com:jordanaq/MLton-Equality-Saturation-Code.git
+[submodule "papers"]
+	path = papers
+	url = git@github.com:jordanaq/MLton-Equality-Saturation-Papers.git
