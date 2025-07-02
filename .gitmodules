@@ -4,3 +4,6 @@
 [submodule "papers"]
 	path = papers
 	url = git@github.com:jordanaq/MLton-Equality-Saturation-Papers.git
+[submodule "demo"]
+	path = demo
+	url = git@github.com:jordanaq/MLton-Equality-Saturation-Egg-Demo.git
